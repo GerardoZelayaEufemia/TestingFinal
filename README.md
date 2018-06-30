@@ -7,4 +7,5 @@ Think about how you want to handle this project and put it here.
 (4) I created this cool crazy-idea new branch.
 
 (5) I am trying to understand git diff and git diff --staged.
+(6) I am trying to understand git rm.
 
